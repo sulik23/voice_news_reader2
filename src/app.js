@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import alanBtn from '@alan-ai/alan-sdk-web';  
-import { Typography } from '@material-ui/core'
+import alanBtn from '@alan-ai/alan-sdk-web'; 
 import wordsToNumbers from 'words-to-numbers';
 
 
